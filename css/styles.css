@@ -168,7 +168,7 @@ margin-right: 10px;
   fill: var(--accent-color);
 }
 .mail .nav-site {
-  color:var(--color-section-text)
+  color:var(--color-section-text);
   transition: color var(--transition-duration) var(--timing-function);
 }
 .mail .nav-site:hover {
@@ -183,7 +183,7 @@ margin-right: 10px;
   fill: var(--accent-color);
 }
 .phone .nav-site {
-  color:var(--color-section-text)
+  color:var(--color-section-text);
   transition: color var(--transition-duration) var(--timing-function);
 }
 .phone .nav-site:hover {
